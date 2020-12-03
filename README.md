@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**snowzinha/snowzinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="390px" width="390px" align="right" alt="computer">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **About Me**
+
+My name is Leticia, I'm 20 years old, I'm passionate about technology and games. 
+
+- 🗺️ São Paulo - Brazil.
+- 🎓 I am a student in the Computer Science course at Universidade Paulista,  expected to conclude on 12/22.
+- 🦄 Skills: HTML, CSS.
+- 💙 I’m currently learning: JavaScript, Bootstrap, Python.
+
+<p align="left">
+  💌 You can also find me at: ⤵️
+</p>
+  <a href="https://www.linkedin.com/in/leticianevess/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticianevess/" /></a>
+  <a href ="https://t.me/snowzinha/" alt="Telegram">
+  <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/snowzinha/" /></a>
+
+<p> 📩 or send me an
+<a href="mailto:neves@tutamail.com"> Email</a>.</p>
+
