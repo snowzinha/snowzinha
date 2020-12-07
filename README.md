@@ -8,7 +8,7 @@
 My name is Leticia, I'm 20 years old, I'm passionate about technology and games. 
 
 - 🗺️ São Paulo - Brazil.
-- 🎓 I am a student in the Computer Science course at Universidade Paulista,  expected to conclude on 12/22.
+- 🎓 I'm studying Computer Science at Universidade Paulista, expected to conclude in 12/2022.
 - 🦄 Skills: HTML, CSS.
 - 💙 I’m currently learning: JavaScript, Bootstrap, Python.
 
