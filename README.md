@@ -9,7 +9,7 @@ My name is Leticia, I'm passionate about technology and games.
 
 - 🗺️ São Paulo - Brazil.
 - 🎓 I'm studying Computer Science at Universidade Paulista, expected to conclude in 12/2022.
-- 🦄 Skills: HTML, CSS, Bootstrap.
-- 💙 I’m currently learning: JavaScript, Python.
+- 🦄 Skills: HTML, CSS, Bootstrap, JavaScript.
+- 💙 I’m currently learning: React, Python.
 
 
